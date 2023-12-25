@@ -1,2 +1,1 @@
--  Hi, I’m @yeurysl
--  I make companies for fun
+I make companies for fun
